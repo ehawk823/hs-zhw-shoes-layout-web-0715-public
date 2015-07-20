@@ -22,6 +22,28 @@
   clear: both;
 }
 
+.grass {
+  width: 65%;
+  float: left;
+  margin-left: 0%;
+}
+
+.archive {
+  width: 30%;
+  float: left;
+  margin-left: 5%;
+}
+
+.wholecol {
+  width: 100%;
+  margin-bottom: 3%;
+}
+
+.first {
+  margin-left: 0%;
+  width: 30%;
+  float: left;
+}
 /* Posititoning Classes */
 
 
